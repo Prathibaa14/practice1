@@ -32,7 +32,7 @@ body{
     margin: 0 400px;
     min-width: 500px;
     max-width: 1000px;
-    background-image: linear-gradient(grey, rgb(100, 101, 102));
+    background-image: linear-gradient(white, rgb(100, 110, 120));
     border-radius: 20px;
     padding: 20px;
 }
